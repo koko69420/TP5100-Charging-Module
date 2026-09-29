@@ -1,0 +1,13 @@
+# KiCad backups & cache
+*-backups/
+fp-info-cache
+*.bak
+*.lck
+
+# Archives
+*.zip
+
+# OS & Editor
+*~
+*.swp
+.DS_Store
